@@ -1,0 +1,10 @@
+{
+    "name": "Dbclutis.TbVisualNovel.Editor",
+    "references": [
+      "Dbclutis.TbVisualNovel"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

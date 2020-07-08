@@ -1,0 +1,11 @@
+{
+  "name": "com.tableaux.tb-visualnovel",
+  "displayName": "TB Visual Novel",
+  "version": "0.1.0",
+  "unity": "2019.3",
+  "description": "Visual Novel flavored tableau",
+  "type": "tool",
+  "dependencies": {
+    "com.dbclutis.bubbletexttool": "0.1.0"
+  }
+}

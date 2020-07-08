@@ -1,0 +1,14 @@
+{
+    "name": "Dbclutis.TbVisualNovel.Editor.Tests",
+    "references": [
+        "Dbclutis.TbVisualNovel.Editor",
+        "Dbclutis.TbVisualNovel"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
